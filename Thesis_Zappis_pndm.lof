@@ -1,0 +1,50 @@
+\select@language {greek}
+\select@language {english}
+\select@language {greek}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Η μεταφορά και διάδοση της ηλεκτρικής ενέργειας από την παραγωγή στην κατανάλωση}}{2}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces To αφαιρετικό μοντέλο του NIST}}{10}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Όραμα ενός έξυπνου δικτύου μεταφοράς}}{13}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Τα χαρακτηριστικά και οι απαιτήσεις ενός Έξυπνου Δικτύου}}{14}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Η αρχιτεκτονική του δικτύου ενός συστήματος M2M}}{28}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Πυραμίδα της γνώσης}}{30}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Μια νέα διάσταση}}{35}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Κύριες Τεχνολογίες στο IoT}}{36}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Σενάρια εφαρμογής του IoT}}{41}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Η δομή του ΙοΤ εφαρμοσμένη στο Έξυπνο Δίκτυο}}{42}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Μονοφασικός μετρητής - Bizy Plug}}{43}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Τριφασικός μετρητής - DinRail Basic}}{44}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Επίπεδα δικτύου του ZigBee (networking layers)}}{49}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Ρόλοι συσκευών στα IEEE 802.15.4 και ZigBee}}{50}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Υποστηριζόμενες τοπολογίες τεχνολογίας ZigBee}}{51}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Φωτογραφία του PAN Coordinator}}{52}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Φωτογραφία του BeagleBone που χρησιμοποιήθηκε}}{53}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Η υπολογιστική πλατφόρμα BeagleBone Black}}{56}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Επάνω άποψη του BeagleBone Black}}{59}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Κάτω άποψη του BeagleBone Black}}{59}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Οι headers P8/\penalty \exhyphenpenalty P9 του BBB}}{62}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Πρότυπο μετάδοσης UART για τη μεταφορά ενός byte}}{65}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Μπροστινή και πίσω άποψη του Arduino Mega 2560}}{67}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Το Raspberry Pi Model B}}{68}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Το Bif\unhbox \voidb@x \hbox {}ferboard}}{69}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Τα δύο μέρη του Bif\unhbox \voidb@x \hbox {}ferboard}}{70}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Η πλατφόρμα Parallela}}{71}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Μπροστινή άποψη του PCB επέκτασης, συνδεδεμένο στο BBB}}{77}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Πίσω άποψη του PCB επέκτασης}}{77}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Σύνδεση του BeagleBone στον υπολογιστή}}{81}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Επιτυχής σύνδεση στο σύστημα του BeagleBone}}{82}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Ανίχνευση και τερματισμός του daemon}}{84}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Επεξεργασία του uEnv.txt}}{86}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Δείγμα ενός παραθύρου του προγράμματος Cutecom}}{87}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Το αρχείο ``/\penalty \exhyphenpenalty etc/\penalty \exhyphenpenalty ppp/\penalty \exhyphenpenalty peers/\penalty \exhyphenpenalty provider''}}{88}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Το αρχείο ``/\penalty \exhyphenpenalty etc/\penalty \exhyphenpenalty chatscripts/\penalty \exhyphenpenalty pap''}}{89}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Η σύνδεση μέσω GPRS}}{90}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Μηνύματα μετά την εντολή plog}}{90}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Τα διάφορα στάδια της υπηρεσίας της Meazon}}{91}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Το BeagleBone μαζί με την πλακέτα επέκτασης}}{91}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Στιγμιότυπο της εφαρμογής}}{94}
